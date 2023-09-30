@@ -58,6 +58,9 @@ After you're finished please remove all the comments and instructions!
 
 This is a web application that demonstrates the combination of using React with Rails with two application, that is to say, using react as the front-end and Rails as the back-end with Postgres as the the database 
 
+here is the link for the front-end PR https://github.com/bronnie313/hello-react-front-end/pull/1
+and the link for the app is  https://github.com/bronnie313/hello-react-front-end/tree/react-front
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -87,7 +90,8 @@ This is a web application that demonstrates the combination of using React with 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- N/A
+- here is the link for the front-end PR bronnie313/hello-react-front-end#1
+- and the link for the app is https://github.com/bronnie313/hello-react-front-end/tree/react-front
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
