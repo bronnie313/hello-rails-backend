@@ -36,7 +36,7 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-   - [🚀 Live Demo](#live-demo) 
+  <!-- - [🚀 Live Demo](#live-demo) -->
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -87,13 +87,13 @@ and the link for the app is  https://github.com/bronnie313/hello-react-front-end
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+<!-- ## 🚀 Live Demo <a name="live-demo"></a>
 
 
 - here is the link for the front-end PR bronnie313/hello-react-front-end#1
-- and the link for the app is https://github.com/bronnie313/hello-react-front-end/tree/react-front
+- and the link for the app is https://github.com/bronnie313/hello-react-front-end/tree/react-front 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>  -->
 
 <!-- GETTING STARTED -->
 
