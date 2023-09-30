@@ -90,7 +90,8 @@ and the link for the app is  https://github.com/bronnie313/hello-react-front-end
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- N/A
+- here is the link for the front-end PR bronnie313/hello-react-front-end#1
+- and the link for the app is https://github.com/bronnie313/hello-react-front-end/tree/react-front
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
